@@ -1,12 +1,13 @@
 unit WinTrayIcon;
 
 (*
-    ´ËÎªWindowsÏÂ FMX ¿ò¼ÜÏÂµÄÍĞÅÌ¹¤¾ß
-    µ±È»Ò²¿ÉÒÔÔÚVCLÊ¹ÓÃ
-    ĞŞ¸Ä×Ô TTrayIcon ÈÃÆä¿ÉÒÔÔÚFMXÊ¹ÓÃ
+    æ­¤ä¸ºWindowsä¸‹ FMX æ¡†æ¶ä¸‹çš„æ‰˜ç›˜å·¥å…·
+    å½“ç„¶ä¹Ÿå¯ä»¥åœ¨VCLä½¿ç”¨
+    ä¿®æ”¹è‡ª TTrayIcon è®©å…¶å¯ä»¥åœ¨FMXä½¿ç”¨
 
+    Github: https://github.com/Icy2010/winTrayIcon
     blog: https://zelig.cn
-    Delphi ½»Á÷Èº: 118195948
+    Delphi äº¤æµç¾¤: 118195948
 *)
 
 interface
@@ -147,7 +148,7 @@ begin
     if FVisible then
       Refresh(NIM_ADD)
     else if not Refresh(NIM_DELETE) then
-    raise EOutOfResources.Create('ÒÆ³ıÏµÍ³ÍĞÅÌÊ§°Ü');
+    raise EOutOfResources.Create('ç§»é™¤ç³»ç»Ÿæ‰˜ç›˜å¤±è´¥');
   end;
 end;
 
