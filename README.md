@@ -1,14 +1,12 @@
 ![](https://github.com/Icy2010/winTrayIcon/blob/main/Trayicon/PixPin_2025-06-08_13-07-47.png)
-# winTrayIcon
+# Delphi Windows托盘(winTrayIcon.pas)
 * Delphi Windows-FMX/VCL TrayIcon
-(*
-    此为Windows下 FMX 框架下的托盘工具
-    当然也可以在VCL使用
-    修改自 TTrayIcon 让其可以在FMX使用
+* 此为Windows下 FMX 框架下的托盘工具
+* 当然也可以在VCL使用
+* 修改自 TTrayIcon 让其可以在FMX使用
 
-    blog: https://zelig.cn
-    Delphi 交流群: 118195948
-*)
+* blog: https://zelig.cn
+* Delphi 交流群: 118195948
 
 ## 使用Demo
 
