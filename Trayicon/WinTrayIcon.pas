@@ -7,7 +7,7 @@ unit WinTrayIcon;
 
     Github: https://github.com/Icy2010/winTrayIcon
     blog: https://zelig.cn
-    Delphi 交流群: 118195948
+    Delphi 交流群: 73978363
 *)
 
 interface
