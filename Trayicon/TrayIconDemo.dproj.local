@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/14 06:54:39.000.748,=C:\Users\icy20\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/14 07:12:51.000.302,=C:\Users\icy20\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/17 22:59:43.000.254,=C:\Users\icy20\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/08 00:44:40.000.769,=C:\Users\icy20\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/08 12:06:43.730,=C:\Users\icy20\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/08 12:09:10.206,C:\Users\icy20\Desktop\Trayicon\Main.pas=C:\Users\icy20\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/08 12:09:10.206,C:\Users\icy20\Desktop\Trayicon\Main.fmx=C:\Users\icy20\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025/06/08 12:09:19.935,C:\Users\icy20\Desktop\Trayicon\TrayIconDemo.dproj=C:\Users\icy20\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/06/08 12:48:48.631,=C:\Users\icy20\Desktop\Trayicon\audi.ico</Transaction>
+    <Transaction>2025/06/08 14:40:55.477,=C:\Users\icy20\Desktop\Trayicon\Unit1.pas</Transaction>
+    <Transaction>2025/06/08 14:41:16.107,C:\Users\icy20\Desktop\Trayicon\WinTrayIcon.pas=C:\Users\icy20\Desktop\Trayicon\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
