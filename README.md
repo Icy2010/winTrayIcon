@@ -6,7 +6,7 @@
 * 修改自 TTrayIcon 让其可以在FMX使用
 
 * blog: https://zelig.cn
-* Delphi 交流群: 118195948
+* Delphi 交流群: 73978363
 
 ## 使用Demo
 
